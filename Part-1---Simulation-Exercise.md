@@ -81,7 +81,7 @@ print(theo_mean)
 
 Look at the *histogram* of the *1000* **averages** of the *40* exponentials.
 
-![](Part-1---Simulation-Exercise_files/figure-html/Plot-01-1.png)<!-- -->
+![](figure/Plot-01-1.png)<!-- -->
 
 Hence, the *sample mean* and the *theoretical mean* are approximately equal.
 
@@ -135,7 +135,7 @@ Hence, the *sample variance* and the *theoretical variance* follow the above rel
 
 Look at the *density plot* of the *1000* **averages** of the *40* exponentials.
 
-![](Part-1---Simulation-Exercise_files/figure-html/Plot-02-1.png)<!-- -->
+![](figure/Plot-02-1.png)<!-- -->
 
 There is a large overlap between the *Sample density curve* and *Normal density curve* and therefore, the distribution is approximately normal.
 
