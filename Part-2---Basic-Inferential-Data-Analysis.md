@@ -57,7 +57,7 @@ Convert **`dose`** to a **factor** variable.
 
 Construct a plot showing the variation of tooth growth with respect to the *dose* and *supplement delivery method*.
 
-![](Part-2---Basic-Inferential-Data-Analysis_files/figure-html/Plot-1-1.png)<!-- -->
+![](figure/Plot-1-1.png)<!-- -->
 
 From the above graph, we can observe that the tooth growth increases as the *dose* increases. Also, for low and medium *doses* (**0.5** and **1** mg/day), the *supplement delivery method* **OJ** shows a higher tooth growth than the *supplement delivery method* **VC**, whereas the tooth growth is nearly the same for high *dose* (**2** mg/day) irrespective of the *supplement delivery method*.
 
